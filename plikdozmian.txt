@@ -1,3 +1,4 @@
 zmiana pierwsza
 zmiana druga
 zmiana trzecia
+czwarta zmiana na konflikt z innego katalogu
